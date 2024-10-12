@@ -1,7 +1,7 @@
 # Creación de Videojuegos 
 Ejercicios realizados con unity en la asignatura 2D y 3D
  * <p align="center">
-     <img src="Portada.jpg" alt="Portada" />
+     <img src="Portada.JPG" alt="Portada" />
    </p>
 
 ## Repositorio del Videojuego 
