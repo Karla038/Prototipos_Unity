@@ -31,9 +31,9 @@ Ejercicios realizados con unity en la asignatura 2D y 3D
      <img src="Prototipo1_2D.png" alt="Caminando" />
     </p>
    * Parte 2
-  * [Documentación](https://docs.google.com/document/d/1Vgrl-nLZZV7aT_3QMmzGKk2lLTS0eS8t/edit?usp=sharing&ouid=113058898750770286945&rtpof=true&sd=true)
+  * [Documentación]([https://docs.google.com/document/d/1Vgrl-nLZZV7aT_3QMmzGKk2lLTS0eS8t/edit?usp=sharing&ouid=113058898750770286945&rtpof=true&sd=true](https://docs.google.com/document/d/17Ao_xSa9-z6LEHslXuqHqhYgTy9pRj417BfmUndWzkc/edit?usp=sharing))
   * <p align="center">
-     <img src="" alt="Caminando" />
+     <img src="Prototipo2_2D.png" alt="Caminando" />
     </p>
 
   
