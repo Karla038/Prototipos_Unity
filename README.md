@@ -37,7 +37,7 @@ Ejercicios realizados con unity en la asignatura 2D y 3D
           <img src="Prototipo2_2D.png" alt="Caminando" width="600" height="auto" />
     </p>
 * Lección 3 - Parte 3
-   * [Construyendo el mundo 2D]()
+   * [Construyendo el mundo 2D](https://github.com/Karla038/Prototipos_Unity/tree/main/Leccion3_Parte3)
    * [Documentación](https://docs.google.com/document/d/1n7XF4ZSX-TXEu2XozAZjw2GWewGWo3fWoGBbLkA-NQw/edit?usp=sharing)
     <p align="center">
           <img src="Prototipo3_2D.png" alt="Caminando" width="600" height="auto" />
