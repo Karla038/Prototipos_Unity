@@ -1,7 +1,7 @@
 # Creación de Videojuegos 
 Ejercicios realizados con unity en la asignatura 2D y 3D
   <p align="center">
-     <img src="videogames_portada.png" alt="Portada" width="600" height="auto"  />
+     <img src="videogames_portada.jpg" alt="Portada" width="600" height="auto"  />
    </p>
 
 ## Repositorio del Videojuego 
@@ -37,10 +37,16 @@ Ejercicios realizados con unity en la asignatura 2D y 3D
           <img src="Prototipo2_2D.png" alt="Caminando" width="600" height="auto" />
     </p>
 * Lección 3 - Parte 3
-   * [Player Animations 2D]()
+   * [Construyendo el mundo 2D]()
    * [Documentación](https://docs.google.com/document/d/1n7XF4ZSX-TXEu2XozAZjw2GWewGWo3fWoGBbLkA-NQw/edit?usp=sharing)
     <p align="center">
-          <img src="Prototipo2_2D.png" alt="Caminando" width="600" height="auto" />
+          <img src="Prototipo3_2D.png" alt="Caminando" width="600" height="auto" />
+    </p>
+* Lección 3 - Parte 3
+   * [Player Animations 2D]()
+   * [Documentación](https://docs.google.com/document/d/1n7XF4ZSX-TXEu2XozAZjw2GWewGWo3fWoGBbLkA-NQw/edit?usp=sharing](https://docs.google.com/document/d/1WurWHqTBSV3ejRIpUWFaZAYg_Z7nC0vSmAWs8hw6Jzk/edit?usp=sharing)](https://docs.google.com/document/d/1WurWHqTBSV3ejRIpUWFaZAYg_Z7nC0vSmAWs8hw6Jzk/edit?usp=sharing))
+    <p align="center">
+          <img src="Prototipo3_2D.png" alt="Caminando" width="600" height="auto" />
     </p>
 
   
