@@ -43,10 +43,15 @@ Ejercicios realizados con unity en la asignatura 2D y 3D
           <img src="Prototipo3_2D.png" alt="Caminando" width="600" height="auto" />
     </p>
 * Lección 3 - Parte 4
-   * [Player Animations 2D]()
+   * [Player Animations 2D](https://github.com/Karla038/Prototipos_Unity/tree/main/Leccion3_Parte4)
    * [Documentación](https://docs.google.com/document/d/1WurWHqTBSV3ejRIpUWFaZAYg_Z7nC0vSmAWs8hw6Jzk/edit?usp=sharing)
     <p align="center">
-          <img src="Prototipo3_2D.png" alt="Caminando" width="600" height="auto" />
+          <img src="Prototipo4_2D.png" alt="Caminando" width="600" height="auto" />
     </p>
-
+* Lección 3 - Parte 5
+   * [Barra de vida 2D]()
+   * [Documentación](https://docs.google.com/document/d/1eMD2-EzUiJZ2wC9jWkCEse3nYVpfvc6Le4h9x5Qk_RU/edit?usp=sharing)
+    <p align="center">
+          <img src="Prototipo4_2D.png" alt="Caminando" width="600" height="auto" />
+    </p>
   
