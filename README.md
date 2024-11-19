@@ -4,6 +4,9 @@ Ejercicios realizados con unity en la asignatura 2D y 3D
      <img src="videogames_portada.png" alt="Portada" width="600" height="auto"  />
    </p>
 
+## Karla Moya Díaz
+## GIDS4101
+
 ## Repositorio del Videojuego 
  * [Soul Ascention](https://github.com/Karla038/SoulAscention.git)
    <p align="center">
@@ -60,9 +63,9 @@ Ejercicios realizados con unity en la asignatura 2D y 3D
           <img src="Prototipo6_2D.png" alt="Caminando" width="600" height="auto" />
     </p>
 * Challenge 2 - 3D
-   * [Challenge 2D]()
+   * [Challenge 2D](https://github.com/Karla038/Prototipos_Unity/tree/main/Challenge2)
    * [Documentación](https://docs.google.com/document/d/1g3LIXMYPyM0xmqhO7wW0k1B5uxR9ZYexmSJJyO7MloY/edit?usp=sharing)
     <p align="center">
-          <img src="Challenge2.png" alt="Caminando" width="600" height="auto" />
+          <img src="Challenge_2.png" alt="Caminando" width="600" height="auto" />
     </p>
   
